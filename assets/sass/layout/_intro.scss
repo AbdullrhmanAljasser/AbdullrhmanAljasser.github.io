@@ -24,6 +24,21 @@
 		z-index: 1;
 		min-height: 100vh;
 
+
+		.imageColumn {
+		   float: left;
+		   padding: 10px;
+		}
+		
+		a img
+		{
+		  border: 0;
+		}
+		.image-link
+		{
+		  text-decoration: none;
+		}	
+		
 		h1 {
 			font-size: 5rem;
 			line-height: 1;
